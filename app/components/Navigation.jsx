@@ -18,4 +18,5 @@ const Navigation = () => {
     </div>
   );
 };
+
 module.exports = Navigation;
