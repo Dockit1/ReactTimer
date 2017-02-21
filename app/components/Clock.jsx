@@ -1,4 +1,5 @@
-const React = require('react');
+//const React = require('react');
+import * as React from 'react';
 
 const Clock = React.createClass({
   getDefaultProps: function () {
